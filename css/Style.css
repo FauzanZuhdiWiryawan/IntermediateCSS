@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Kreon', serif;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 4%;
+    border-width: 5px;
+}
+h1{
+    font-size: 4rem;
+    margin:50px auto 0px auto;
+    font-family: 'Marck Script', cursive;
+}
+h2{
+    margin: 0px;
+    font-size: 1.5rem;
+    font-family: 'Varela Round', sans-serif;
+}
+h3{
+    font-family: 'Varela Round', sans-serif;
+}
+p{
+    font-size: 1rem;
+}
+.Top{    
+    background-color: #11999e;
+}
+.Mid{   
+    background-color: #e4f9f5;
+}
+.Bottom{
+    background-color: #40514e;
+}
+.photoicon{
+    left: 10px;
+    top: 10px;
+    position: absolute;
+    border-radius: 50%;
+    border-color: #e4f9f5;
+    border-style: solid;
+    border-width: 10px;
+    height: 100px;
+    width: 100px;
+}
+.HeadLink{
+    text-align: right;
+}
+.headerlink{
+    color: black;
+    margin: 20px;
+}
+.ParHead{
+    margin: 0px;
+    font-size: 1.5rem;
+}
+.imgTop{
+    height: 400px;
+    width: 600px;
+}
+.photoprof{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 0.5rem;
+    border-style: solid;
+    border-width: 0.5rem;
+}
+.profil{
+    width: 75%;
+    text-align:center;
+    margin: auto;
+    line-height: 2;
+}
+.SkillRow1{
+    width: 90%;
+    text-align: left;
+    margin: 3rem auto 3rem 4rem;
+    line-height: 2;
+}
+.SkillRow2{
+    width: 90%;
+    text-align: left;
+    margin: 3rem 4rem 3rem auto;
+    line-height: 2;
+}
+.skill1{
+    border-radius: 50%;
+    height: 12.5rem;
+    width: 12.5rem;
+    float: left;
+    margin-right: 30px;
+    padding: 0.5rem;
+    border-style: solid;
+    border-width: 0.5rem;
+    clear: both;
+}
+.skill2{
+    border-radius: 50%;
+    height: 12.5rem;
+    width: 12.5rem;
+    float: right;
+    margin-left: 30px;
+    padding: 0.5rem;
+    border-style: solid;
+    border-width: 0.5rem;
+}
+.footerlink{
+    margin: 20px;
+    margin-bottom: 0px;
+    color: floralwhite;
+}
